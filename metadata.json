@@ -1,0 +1,5 @@
+{
+  "name": "AI Dialer",
+  "description": "A sleek and modern web-based phone dialer to initiate AI-powered calls through the bland.ai API. Features a classic keypad interface and real-time call status updates.",
+  "requestFramePermissions": []
+}
